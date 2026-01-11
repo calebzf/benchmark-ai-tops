@@ -56,6 +56,7 @@ FP16 (TOPS): AI Inference power. Lower precision, faster speed. This metric alig
 
 ## 📝 Example Result (Apple M4 Pro)
 
+```bash
 ================================================================================
 🚀  AI BENCHMARK PRO
 ================================================================================
@@ -81,5 +82,5 @@ This is the maximum speed achievable without a calibration dataset (W8A16 mode).
 To reach full TOPS (W8A8), a real-world trained model with activation
 quantization is required.
 ================================================================================
-
+```
 

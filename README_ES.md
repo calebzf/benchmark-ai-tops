@@ -56,6 +56,7 @@ FP16 (TOPS): Potencia de Inferencia de IA. Menor precisión, mayor velocidad. Es
 
 ## 📝 Resultado de Ejemplo (Apple M4 Pro)
 
+```bash
 ================================================================================
 🚀  AI BENCHMARK PRO
 ================================================================================
@@ -81,3 +82,4 @@ Esta es la velocidad máxima posible sin un dataset de calibración (modo W8A16)
 Para alcanzar el máximo de TOPS completos (W8A8), se requiere un modelo real entrenado
 con cuantización de activaciones.
 ================================================================================
+```
